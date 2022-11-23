@@ -1,4 +1,4 @@
-import random # Random number generator library!
+import random # Random Library
 
 class RandomGenerator:
     __amount = None
